@@ -17,6 +17,8 @@ The dashboard also employs many interactive features where the user interacts wi
 The app has been deployed using a service called Render that allows the app to be deployed directly from GitHub.
 Deployment Link: https://dash-country-vars.onrender.com/
 
+The project may load slowly due to deployment on free service RENDER
+
 # UID Snapshots
 
 ![image](https://user-images.githubusercontent.com/100020768/208230181-788e79d8-b38d-4821-99b4-b1cb294b7529.png)
